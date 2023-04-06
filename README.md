@@ -18,7 +18,7 @@ DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80
 
 ---
 ### Installation
-* Clone this repository: git clone https://github.com/eiramlan/DNAPoly.git
+* Clone this repository: git clone https://github.com/eiramlan/DNApoly.git
 
 ### Usage
 1. Start Jupyter Notebook: jupyter notebook
