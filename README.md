@@ -26,4 +26,4 @@ DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80
 3. Follow the instructions in the notebook to run the program.
 
 ### License
-This project is licensed under the GNU General Public License v2.0. See the LICENSE file for more details.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
