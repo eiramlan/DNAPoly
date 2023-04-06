@@ -3,8 +3,8 @@ DNA Box generator using DNA Polyominoes fabrication strategy. The original publi
 
 Self-assembly programming of DNA polyominoes - https://doi.org/10.1016/j.jbiotec.2016.08.017
 
-## Requirements
-You need to run DNAPoly v1.0 to generate the relevant DNA network configuratios (3x4, or 4x4). DNAPoly v1.0 is available in this repository for local installation. You need to run RNAStructure (https://www.urmc.rochester.edu/rna/) to run the sequence-structure optimisation mode. You need to install the packages locally on your machine.
+### Requirements
+You need to run DNAPoly v1.0 to generate the relevant DNA network configuratios (3x4, or 4x4). DNAPoly v1.0 is available in this repository for local installation. You need to run `RNAStructure` (https://www.urmc.rochester.edu/rna/) to run the sequence-structure optimisation mode. You need to install the packages locally on your machine.
 
 * Please cite this article if you are running DNA Poly v1.0. 
 * DNA Tetrominoes: The Construction of DNA Nanostructures Using Self-Organised Heterogeneous Deoxyribonucleic Acids Shapes 
