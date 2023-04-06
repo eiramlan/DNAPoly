@@ -1,4 +1,4 @@
-# DNApoly v2.0 
+# DNApoly-v2.0 
 Create your DNA box using DNA Polyominoes. The original publication describing the self-organised fabrication strategy can be found here: Self-assembly programming of DNA polyominoes - https://doi.org/10.1016/j.jbiotec.2016.08.017
 
 ### Description
