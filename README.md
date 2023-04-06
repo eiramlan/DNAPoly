@@ -3,6 +3,8 @@ DNA Box generator using DNA Polyominoes fabrication strategy. The original publi
 
 Self-assembly programming of DNA polyominoes - https://doi.org/10.1016/j.jbiotec.2016.08.017
 
+Main code is available in iPython - `N_construct` (Download and reuse as needed)
+
 ### Requirements
 You need to run DNAPoly v1.0 to generate the relevant DNA network configuratios (3x4, or 4x4). DNAPoly v1.0 is available in this repository for local installation. You need to run `RNAStructure` (https://www.urmc.rochester.edu/rna/) to run the sequence-structure optimisation mode. You need to install the packages locally on your machine.
 
