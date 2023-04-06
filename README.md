@@ -10,5 +10,5 @@ You need to run DNAPoly v1.0 to generate the relevant DNA network configuratios 
 * DNA Tetrominoes: The Construction of DNA Nanostructures Using Self-Organised Heterogeneous Deoxyribonucleic Acids Shapes 
 Ong HS, Rahim MS, Firdaus-Raih M, Ramlan EI (2015) DNA Tetrominoes: The Construction of DNA Nanostructures Using Self-Organised Heterogeneous Deoxyribonucleic Acids Shapes. PLOS ONE 10(8): e0134520. https://doi.org/10.1371/journal.pone.0134520
 
-* Please cite this articule if you are running RNAStructure:  
+* Please cite this articule if you are running `RNAStructure`:  
 Reuter, J.S., Mathews, D.H. RNAstructure: software for RNA secondary structure prediction and analysis. BMC Bioinformatics 11, 129 (2010). https://doi.org/10.1186/1471-2105-11-129
