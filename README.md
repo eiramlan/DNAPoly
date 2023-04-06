@@ -7,7 +7,7 @@ DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80
 ### Requirements
 * Python 3.x
 * Jupyter Notebook
-* You need to run DNAPoly v1.0 to generate the relevant DNA network configuratios (3x4, or 4x4). DNApoly v1.0 is available in this repository for local installation. You need to run `RNAStructure` (https://www.urmc.rochester.edu/rna/) to run the sequence-structure optimisation mode. You need to install the package locally on your machine.
+* You need to run DNAPoly v1.0 to generate the relevant DNA network configuratios (3x4, or 4x4). `DNApoly-v1.0` is available in this repository for local installation. You need to run `RNAStructure` (https://www.urmc.rochester.edu/rna/) to run the sequence-structure optimisation mode. You need to install the package locally on your machine.
 
 ---
 * Please cite this article if you are running `DNApoly-v1.0`:  
