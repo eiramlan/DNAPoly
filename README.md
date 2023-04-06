@@ -1,7 +1,5 @@
 # DNAPoly v2.0 
-DNA Box generator using DNA Polyominoes fabrication strategy. The original publication describing the self-organised fabrication strategy can be found here:
-
-Self-assembly programming of DNA polyominoes - https://doi.org/10.1016/j.jbiotec.2016.08.017
+Create your DNA box using DNA Polyominoes. The original publication describing the self-organised fabrication strategy can be found here: Self-assembly programming of DNA polyominoes - https://doi.org/10.1016/j.jbiotec.2016.08.017
 
 ### Description
 DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80s video game [Tetris](https://en.wikipedia.org/wiki/Tetris). You can construct three-dimensional structures by combining DNA walls (technical term DNA network configurations). You can find the program to create these walls in this repository (DNAPoly v1.0). In this project, you can use the interactive python notebook `N_construct` to generate links to combine these walls into a box. You can change the box dimensions by modifying the number of walls.
