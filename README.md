@@ -22,7 +22,7 @@ DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80
 
 ### Usage
 1. Start Jupyter Notebook: jupyter notebook
-2. Open the notebook file: [filename].ipynb
+2. Open the notebook file: n_contruct.ipynb
 3. Follow the instructions in the notebook to run the program.
 
 ### License
