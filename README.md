@@ -1,6 +1,8 @@
 # DNApoly-v2.0 
 Create your DNA box using DNA Polyominoes. The original publication describing the self-organised fabrication strategy can be found here: Self-assembly programming of DNA polyominoes - https://doi.org/10.1016/j.jbiotec.2016.08.017
 
+DNApoly-v2.0 is an enhanced version of the DNApoly-v1.0 web server, designed to generate DNA cuboids with 4x3 or 4x4 face configurations. These cuboids are fabricated based on the schema of DNA polyominoes, an extension of the geometric principles of tetrominoes. The generator produces DNA sequences that conform to structural requirements, validated by secondary structure predictions using the ViennaRNA package (Lorenz et al., 2011).
+
 ### Description
 DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80s video game [Tetris](https://en.wikipedia.org/wiki/Tetris). You can construct three-dimensional structures by combining DNA walls (technical term, DNA network configurations). You can find the program to create these walls in this repository (DNApoly-v1.0). In this project, you can use the interactive python notebook `N_construct` to generate links to combine these walls into a box. You can change the box dimensions by modifying the number of walls.
 
@@ -24,6 +26,11 @@ DNApoly is a nature-inspired approach to construct biocomputers mimicking the 80
 1. Start Jupyter Notebook: jupyter notebook
 2. Open the notebook file: `N_contruct.ipynb`
 3. Follow the instructions in the notebook to run the program.
+
+---
+
+### Acknowledgement
+This research is supported by the Prototype Development Research Grant Scheme (PRGS) PR001-2018A from the Ministry of Higher Education, Malaysia.
 
 ### License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
